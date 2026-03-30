@@ -1,0 +1,7 @@
+carbohydrates in columns: True
+          name  carbohydrates
+    cornstarch          91.27
+   nuts pecans          13.86
+  eggplant raw           5.88
+ teff uncooked          73.13
+sherbet orange          30.40
